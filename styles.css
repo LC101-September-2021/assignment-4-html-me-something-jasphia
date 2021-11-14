@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+body{
+    background-color:seashell;
+    margin: 8px;
+    display: block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text-center{
+    text-align: center;
+}
+#mainHeading{
+    color:red;
+}
+#testP.funParagraph{
+    color:green;
+    padding: 25px;
+}
+article{
+    margin: 15px;
+}
+img{
+    padding: 50px;
+}
+.centerimg{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
